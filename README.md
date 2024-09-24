@@ -14,4 +14,5 @@ Currently, the system is focused on text-based interactions, with plans to intro
 <br>
 Feel free to explore and interact with Gemini-Clone! It's a work in progress, but each iteration is bringing it closer to an immersive AI experience.
 
-<a href="https://gemini-clone-website1.netlify.app">Gemini Clone System</a>
+<a href="https://gemini-clone-website1.netlify.app" style="text-decoration: none; color: inherit;">Gemini Clone System 🚀</a>
+
