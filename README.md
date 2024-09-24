@@ -1,5 +1,5 @@
 # Gemini-Clone System 🚀
-Welcome to Gemini-Clone, a mock conversational AI system built to mimic the core features of ChatGPT! This project was developed to sharpen my React JS skills and dive deep into the fascinating world of generative AI, all while following YouTube tutorials. 🌟
+Welcome to Gemini-Clone, a mock conversational AI system built to mimic the core features of ChatGPT! This project was developed to sharpen my React JS skills and dive deep into the fascinating world of generative AI, all while following YouTube tutorials. 🌟</p>
 
 With Gemini-Clone, users can experience real-time, text-based interactions where AI dynamically generates responses based on the user's input. Whether you're asking questions or engaging in a casual chat, the AI generates conversational replies, simulating the feel of a chatbot system.
 
